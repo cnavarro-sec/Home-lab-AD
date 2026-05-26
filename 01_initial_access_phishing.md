@@ -21,8 +21,6 @@ Usuário: Megan
 4. A credencial é utilizada para iniciar a fase de reconhecimento e enumeração dos recursos da rede.
 
 
-
-
 ![](Pasted%20image%2020260524181919.png)
 
 
