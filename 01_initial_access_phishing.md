@@ -21,7 +21,7 @@ Usuário: Megan
 4. A credencial é utilizada para iniciar a fase de reconhecimento e enumeração dos recursos da rede.
 
 
-![](Pasted%20image%2020260524181919.png)
+![](img_lab_01/Pasted%20image%2020260524181919.png)
 
 
 Técnicas MITRE ATT&CK  
