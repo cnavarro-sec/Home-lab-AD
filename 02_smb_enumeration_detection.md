@@ -12,22 +12,22 @@ Após obter acesso à conta Megan, foi realizada a enumeração de recursos SMB 
 
 ### Descoberta do host
 
-![](Pasted%20image%2020260525182151.png)
+![](img_lab_02/Pasted%20image%2020260525182151.png)
 
 ### Enumeração SMB
 
-![](Pasted%20image%2020260525182236.png)
+![](img_lab_02/Pasted%20image%2020260525182236.png)
 
 ### Listando arquivos da pasta
 
-![](Pasted%20image%2020260525191214.png)
+![](img_lab_02/Pasted%20image%2020260525191214.png)
 
 ### Vulnerabilidades nos arquivos
 
 Possível ataque de de engenharia social
 Identificação do funcionário interno
 
-![](Pasted%20image%2020260525191813.png)
+![](img_lab_02/Pasted%20image%2020260525191813.png)
 
 
 ![](Pasted%20image%2020260525193716.png)
@@ -39,7 +39,7 @@ Descoberta de nomes de servidores internos.
 Possibilidade de enumeração.
 útil para movimentação lateral
 
-![](Pasted%20image%2020260525191942.png)
+![](img_lab_02/Pasted%20image%2020260525191942.png)
 
 ### Compartilhamentos encontrados
 
@@ -55,20 +55,20 @@ Possibilidade de enumeração.
 evento windows: 4624
 evento ocorrido de logon com sucesso as 19:13
 
-![](Pasted%20image%2020260526001207.png)
+![](img_lab_02/Pasted%20image%2020260526001207.png)
 
 evento windows:4634
 logoff da conexao as 19:14
 
 
-![](Pasted%20image%2020260526001911.png)
+![](img_lab_02/Pasted%20image%2020260526001911.png)
 _(print do alerta ou evento)_
 
 evento:5140
 acessou o C:\FINANCE
 
 
-![](Pasted%20image%2020260526004352.png)
+![](img_lab_02/Pasted%20image%2020260526004352.png)
 
 
 Evento:5145
@@ -90,14 +90,14 @@ fornecedores.txt
 Tipo:  
 File
 
-![](Pasted%20image%2020260526005528.png)
-![](Pasted%20image%2020260526005455.png)
-![](Pasted%20image%2020260526005424.png)
+![](img_lab_02/Pasted%20image%2020260526005528.png)
+![](img_lab_02/Pasted%20image%2020260526005455.png)
+![](img_lab_02/Pasted%20image%2020260526005424.png)
 
 
 ### Eventos observados no Wazuh
 
-![](Pasted%20image%2020260525210417.png)
+![](img_lab_02/Pasted%20image%2020260525210417.png)
 
 ---
 
@@ -128,9 +128,9 @@ NTLMv2
 
 
 
-![](Pasted%20image%2020260525225650.png)
+![](img_lab_02/Pasted%20image%2020260525225650.png)
 
-![](Pasted%20image%2020260525225915.png)
+![](img_lab_02/Pasted%20image%2020260525225915.png)
 
 
 
