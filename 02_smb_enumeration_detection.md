@@ -30,7 +30,7 @@ Identificação do funcionário interno
 ![](img_lab_02/Pasted%20image%2020260525191813.png)
 
 
-![](Pasted%20image%2020260525193716.png)
+![](img_lab_02/Pasted%20image%2020260525193716.png)
 
 
 ____
@@ -62,7 +62,6 @@ logoff da conexao as 19:14
 
 
 ![](img_lab_02/Pasted%20image%2020260526001911.png)
-_(print do alerta ou evento)_
 
 evento:5140
 acessou o C:\FINANCE
